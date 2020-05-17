@@ -1,5 +1,5 @@
 # Flower_Image_Classifier
- * By *Dilip Jain*
+  By *Dilip Jain*
 
 # Flower-Image-Classifier
 Flower image classifier,build with pytorch neural network
