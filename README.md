@@ -27,7 +27,5 @@ Open file jupyter notebook imageclassifierproject.ipynb
 Files Description
 * Image Classifier Project.ipynb It is used to build the model using the jupyter notebook. It can be used independently to see how the model works.
 * cat_to_name.json It is used in ipynb and py file to map flower number to flower names.
-*  train_args.py It is used by predict.py to enable the parameter function.
 * train.py It will train a new network on a dataset and save the model as a checkpoint.
-* predict_args.py It is used by predict.py to enable the parameter function.
 * predict.py It uses a trained network to predict the class for an input image.
